@@ -1,0 +1,11 @@
+D:\MyProjects\Private\New\LCMTLCB1.WebAPI.Solution\LCMTLCB1.WebAPI.Solution\obj\Docker\publish\LCMTLCB1.WebAPI.Solution.exe
+D:\MyProjects\Private\New\LCMTLCB1.WebAPI.Solution\LCMTLCB1.WebAPI.Solution\obj\Docker\publish\appsettings.Development.json
+D:\MyProjects\Private\New\LCMTLCB1.WebAPI.Solution\LCMTLCB1.WebAPI.Solution\obj\Docker\publish\appsettings.json
+D:\MyProjects\Private\New\LCMTLCB1.WebAPI.Solution\LCMTLCB1.WebAPI.Solution\obj\Docker\publish\LCMTLCB1.WebAPI.Solution.dll
+D:\MyProjects\Private\New\LCMTLCB1.WebAPI.Solution\LCMTLCB1.WebAPI.Solution\obj\Docker\publish\LCMTLCB1.WebAPI.Solution.deps.json
+D:\MyProjects\Private\New\LCMTLCB1.WebAPI.Solution\LCMTLCB1.WebAPI.Solution\obj\Docker\publish\LCMTLCB1.WebAPI.Solution.runtimeconfig.json
+D:\MyProjects\Private\New\LCMTLCB1.WebAPI.Solution\LCMTLCB1.WebAPI.Solution\obj\Docker\publish\LCMTLCB1.WebAPI.Solution.pdb
+D:\MyProjects\Private\New\LCMTLCB1.WebAPI.Solution\LCMTLCB1.WebAPI.Solution\obj\Docker\publish\Microsoft.OpenApi.dll
+D:\MyProjects\Private\New\LCMTLCB1.WebAPI.Solution\LCMTLCB1.WebAPI.Solution\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\MyProjects\Private\New\LCMTLCB1.WebAPI.Solution\LCMTLCB1.WebAPI.Solution\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MyProjects\Private\New\LCMTLCB1.WebAPI.Solution\LCMTLCB1.WebAPI.Solution\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
